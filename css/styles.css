@@ -469,7 +469,7 @@ input[type='checkbox'] {
 	line-height: 0.875rem;
 	text-decoration: none;
 }
-
+.container
 .navbar .dropdown-item:hover {
 	background-color: #24262a;
 	color: #9c9ead;
@@ -521,7 +521,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/header-background.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)), url('../images/4.jpeg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -566,16 +566,16 @@ input[type='checkbox'] {
 }
 
 .basic-1 .time {
-	margin-bottom: 0.5rem;
+	margin-bottom: 1rem;
 	color: #0b36a8;
 	font-weight: 600;
-	font-size: 0.875rem;
-	line-height: 1.5rem;
-	font-family: "Poppins";
+	font-size: 1rem;
+	line-height: 2rem;
+	font-family: "arial";
 }
 
 .basic-1 h6 {
-	margin-bottom: 0.125rem;
+	margin-bottom: 0.5rem;
 }
 
 
@@ -620,7 +620,7 @@ input[type='checkbox'] {
 /*******************/
 .split .area-1 {
 	height: 430px;
-	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/details-background.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(25, 26, 29, 0.5), rgba(25, 26, 29, 0.5)), url('../images/1.jpeg') center center no-repeat;
 	background-size: cover;
 }
 
